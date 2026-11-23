@@ -1,6 +1,5 @@
-#Python program to process raw Tailgater Pro scan data from dtp_scan.py
-#Tailgater Pro Version 1.0 (mostly the same as original Tailgater / dish_image version)
-#Takes saved text file (numpy array) and converts into heatmap
+#Modified version of dtp_image.py. 
+#Use this version to mess with array values and drop outliers
 
 import numpy as np
 import matplotlib.pyplot as plt
