@@ -59,7 +59,7 @@ motors comes from the coax "F" connector. This requires 12V DC, center pin posit
 I used a coax power injector or simply a barrel jack soldered to an F male plug. I 
 generally use at least a 1000mA power supply. 
 
-![Tailgater Pro showing USB and power connections](https://github.com/saveitforparts/Tailgater-Pro-Microwave-Imaging/blob/main/images/dtp4900_2.png)
+![Tailgater Pro showing USB and power connections](https://github.com/saveitforparts/Tailgater-Pro-Microwave-Imaging/blob/main/images/dtp4900_2.jpg)
 
 
 **Package Requirements:**
