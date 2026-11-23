@@ -1,0 +1,14 @@
+#Package requirements for dtp_scan.py, dtp_image.py, and dtp_preview.py
+
+numpy
+pyserial
+regex
+matplotlib
+pylab
+keyboard
+os
+argparse
+subprocess
+sys
+
+
