@@ -6,4 +6,7 @@ regex
 matplotlib
 pylab
 keyboard
+os
 argparse
+subprocess
+sys
