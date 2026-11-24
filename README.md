@@ -4,7 +4,7 @@ v1.0 11/22/2026
 
 Gabe Emerson / Saveitforparts 2026. Email: gabe@saveitforparts.com
 
-Video demo: 
+Video demo: https://youtu.be/gKa3j5jYIao
 
 **Introduction:**
 
